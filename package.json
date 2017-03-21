@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Login",
   "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "author": "DENA",
   "dependencies": {
     "body-parser": "^1.13.2",
