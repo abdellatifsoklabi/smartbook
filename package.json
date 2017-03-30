@@ -2,9 +2,9 @@
   "name": "Nirawa",
   "version": "0.0.1",
   "description": "Login",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node server.js"
   },
   "engines": {
     "node": "6.9.3"
